@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a new branch is Quick and Simple.
 Branch dev.
 Test stash, stash ok.
+test rebase.
