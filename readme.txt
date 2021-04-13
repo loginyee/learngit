@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Create a new branch is Quick and Simple.
 Branch dev.
-Test stash.
+Test stash, stash ok.
